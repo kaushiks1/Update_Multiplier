@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "445529FF1D7AAAFD00BC30A3"
-               BuildableName = "Apple.app"
-               BlueprintName = "Apple"
-               ReferencedContainer = "container:Apple.xcodeproj">
+               BuildableName = "Update_Multiplier.app"
+               BlueprintName = "Update_Multiplier"
+               ReferencedContainer = "container:Update_Multiplier.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,34 +28,14 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "44552A181D7AAAFE00BC30A3"
-               BuildableName = "AppleTests.xctest"
-               BlueprintName = "AppleTests"
-               ReferencedContainer = "container:Apple.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "44552A231D7AAAFE00BC30A3"
-               BuildableName = "AppleUITests.xctest"
-               BlueprintName = "AppleUITests"
-               ReferencedContainer = "container:Apple.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "445529FF1D7AAAFD00BC30A3"
-            BuildableName = "Apple.app"
-            BlueprintName = "Apple"
-            ReferencedContainer = "container:Apple.xcodeproj">
+            BuildableName = "Update_Multiplier.app"
+            BlueprintName = "Update_Multiplier"
+            ReferencedContainer = "container:Update_Multiplier.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "445529FF1D7AAAFD00BC30A3"
-            BuildableName = "Apple.app"
-            BlueprintName = "Apple"
-            ReferencedContainer = "container:Apple.xcodeproj">
+            BuildableName = "Update_Multiplier.app"
+            BlueprintName = "Update_Multiplier"
+            ReferencedContainer = "container:Update_Multiplier.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "445529FF1D7AAAFD00BC30A3"
-            BuildableName = "Apple.app"
-            BlueprintName = "Apple"
-            ReferencedContainer = "container:Apple.xcodeproj">
+            BuildableName = "Update_Multiplier.app"
+            BlueprintName = "Update_Multiplier"
+            ReferencedContainer = "container:Update_Multiplier.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

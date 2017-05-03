@@ -7,9 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "NSLayoutConstraint+Multiplier.h"
 
 @interface ViewController : UIViewController
 
+
+@property (weak, nonatomic) IBOutlet NSLayoutConstraint *layoutConstraintViewHeight;
 
 @end
 

@@ -16,6 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+//    _layoutConstraintViewHeight.constant = 100;
+    
+    self.layoutConstraintViewHeight = [self.layoutConstraintViewHeight updateMultiplier:0.5];
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
